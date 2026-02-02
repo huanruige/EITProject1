@@ -12,3 +12,6 @@ utils：工具类，其中data_loading用于读入数据集
 2. 运行train_8982进行训练
 3. 运行predict_8982进行预测
 4. 使用成像代码colorbar_to_image.m进行成像，成像结果保存在images文件夹下
+
+参考论文：Image Reconstruction for Absolute Electrical Impedance Tomography based on ECA attention Neural Network
+作者：Jin-Hang Liu
